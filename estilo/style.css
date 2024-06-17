@@ -20,7 +20,7 @@ body {
 
 main {
     position: relative;
-    height: 95vh;
+    height: 100vh;
   
 }
 
@@ -46,7 +46,7 @@ section#redes-sociais img {
     width: 50px;
     margin: 10px;
     border-radius: 50px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
 
 }
